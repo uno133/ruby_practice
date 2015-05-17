@@ -1,4 +1,6 @@
 # coding: utf-8
+# 下記のサイトの練習問題の解答
+# http://www.ie.u-ryukyu.ac.jp/~kono/software/s04/tutorial/Chapter=01.html
 
 puts "1 年は、\"#{365 * 24}\" 時間です"
 
