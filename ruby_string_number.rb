@@ -10,3 +10,4 @@ puts "こんにちは#{first_name} #{second_name} さん"
 puts "好きな数字を入力して下さい。"
 number = gets.chomp.to_i
 puts "#{number + 1} こっちの方がさらにいいかも"
+
